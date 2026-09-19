@@ -145,4 +145,4 @@ select
 from customer_tier
 where spend_rank <= 10
 order by spend_rank asc;
------
+-----gene
